@@ -12,5 +12,8 @@ chicago.csv
 new_york_city.csv  
 washington.csv
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Resources referrences
+Convert seconds to hours, minutes and seconds:  https://docs.python.org/3/library/functions.html#divmod
+
+Other pandas and numpy functions:  
+Lessons in the Introduction to Data Analysis section of Udacity's Data Aanalyst Nanodegree.
